@@ -1,8 +1,8 @@
 def deuxiemePlusGrandNombre(tableau):
     for x in tableau:
-        
+        print(x)
 
-    
+
 
 
 tableau = [10, 5, 8, 20, 15]
