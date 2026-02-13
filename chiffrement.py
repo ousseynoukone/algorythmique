@@ -43,7 +43,7 @@ def chiffrer(message, cle):
 
     cle_etendue = preparer_cle(cle, nb_lettres)
 
-    resultat = ""
+    result = ""
     j = 0  
 
     for i in range(len(message)):
